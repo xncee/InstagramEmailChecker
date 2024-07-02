@@ -9,6 +9,7 @@ import java.net.http.HttpResponse;
 import java.util.*;
 
 public class Main implements Color {
+    //rv
     final static String PROGRAM_NAME = "Email Checker";
     static Scanner input = new Scanner(System.in);
     static boolean running = true;
